@@ -10,6 +10,10 @@ h1 {
   color:black;
 }
 
+p {
+  text-align: center;
+}
+
 th {
   color:GhostWHite;
 }
@@ -24,6 +28,7 @@ td {
 
 .image {
    width:125px;height:150px;
+   text-align: center;
 }
 
 
