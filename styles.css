@@ -2,6 +2,7 @@
 body {
   background-color:DarkRed;
   color:GhostWHite;
+  text-align: center;
 }
 
 h1 {
@@ -14,9 +15,6 @@ h1:hover {
   background-color:MediumSeaGreen
 }
 
-.parag {
-  text-align: center;
-}
 
 th {
   color:GhostWHite;
