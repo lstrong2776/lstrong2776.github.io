@@ -12,15 +12,17 @@ h1 {
 }
 
 h1:hover {
-  background-color:MediumSeaGreen
+  background-color:yellow;
 }
 
 
 th {
+  text-align: center;
   color:GhostWHite;
 }
 
 td {
+  text-align: center;
   color:GhostWHite;
 }
 
