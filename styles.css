@@ -10,6 +10,10 @@ h1 {
   color:black;
 }
 
+h1:hover {
+  background-color:MediumSeaGreen
+}
+
 .parag {
   text-align: center;
 }
@@ -32,8 +36,6 @@ td {
   
 }
 
-a:hover {
-  background-color:MediumSeaGreen;
-}
+
 
 
