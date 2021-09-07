@@ -17,7 +17,7 @@ h1:hover {
 
 
 table {
-  text-align: center;
+  align: center;
   color:GhostWHite;
 }
 
@@ -28,7 +28,7 @@ td {
 
 #myDiv {
   width:325px;height:100px;
-  text-align: center;
+  align: center;
 }
 
 .image {
